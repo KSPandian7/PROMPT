@@ -126,7 +126,7 @@ Core Components:<br>
 • Self-Attention: Determines relevance between words in a sequence<br>
 • Positional Encoding: Adds sequence order information<br>
 
-**Architecture**
+**Architecture** <br>
 <img src="https://github.com/user-attachments/assets/a58c023d-2d20-4f43-b43f-68b97e7a9f44" height="400" />
 
 
